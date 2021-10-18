@@ -1,5 +1,5 @@
 void main() {
-  var n = 6;
+  var n = 7;
   if (n % 2 == 0) {
     print("Number is Even");
   } else {
